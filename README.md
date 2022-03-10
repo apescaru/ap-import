@@ -10,8 +10,6 @@
 
 #### - items: Array = default array of items
 
-#### - batchSize: Integer > 1 = the number of elements in each batch
-
 #### - options: Object = 3 options
 
 - <b>stopOnFail</b> <default: true> = determine whether to throw an error and stop the importing or to go on and retain the "bad" items in an array
