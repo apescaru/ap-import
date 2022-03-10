@@ -1,0 +1,20 @@
+{
+  "name": "ap-import",
+  "version": "1.0.0",
+  "description": "Easy way to import elements from an array of data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "import",
+    "node",
+    "batch",
+    "array",
+    "database",
+    "callback"
+  ],
+  "author": "Andrei Alexandru Pescaru",
+  "license": "MIT"
+}
